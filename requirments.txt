@@ -1,0 +1,5 @@
+flask
+spotipy
+python_dotenv
+turbo_flask
+config
